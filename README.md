@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @evjohns005
-- 👀 I’m interested in working in the Business/Data Analytics field.
-- 🌱 I’m have completed Entity Academy/Woz U' Data Science bootcamp with an A average.
-- 💞️ I’m looking to collaborate on data analytics projects using R, Python, and SQL.
-- 📫 You can reach me at ev.johns005@gmail.com
+# Eva Johnson — ML Engineer
+
+ML Engineer specializing in ML infrastructure, 
+agentic systems, and cloud deployment on AWS.
+
+🔧 Stack: Python · AWS (SageMaker, Lambda, Fargate) ·
+          Docker · Airflow · Snowflake · Terraform </br>
+
+📫 ev.johns005@gmail.com | linkedin.com/in/evangelinejohnson
 
 <!---
 evjohns005/evjohns005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
