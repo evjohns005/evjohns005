@@ -14,7 +14,7 @@ agentic systems, and cloud deployment on AWS.
 
 ## 📜 Certifications
 
-**Anthropic** → Introduction to MCP, Claude Code in Action, Advanced MCP Topics, Building with the Claude API, AI Fluency: Framework & Foundations
+**Anthropic** → Introduction to MCP
 
 ## 📫 Let's Connect
 
