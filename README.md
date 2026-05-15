@@ -14,7 +14,7 @@ agentic systems, and cloud deployment on AWS.
 
 ## 📜 Certifications
 
-**Anthropic** → Introduction to MCP
+**Anthropic** → Introduction to MCP <br>
 **AWS** → AWS Certified Machine Learning Engineer - Associate (expected May 2026)
 
 ## 📫 Let's Connect
